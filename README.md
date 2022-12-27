@@ -58,7 +58,6 @@
 <div class="stats" align="center" dir="auto">
     <h2>Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=womb0comb0&show_icons=true&locale=en&layout=compact&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&card_width=440
-">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=womb0comb0&show_icons=true&locale=en&layout=compact&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc">
 </div>
 <!-- <a target="_self" style="width:100%; max-width:100%;"rel="noopener norefferer nofollow" href=""> -->
