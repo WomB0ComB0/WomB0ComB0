@@ -9,39 +9,9 @@
         <img src="https://komarev.com/ghpvc/?username=WomB0ComB0&style=flat-square&color=653da8">
     </a>
 </p>
-<style>
-    li {float:right;padding:16px;}
-    li a{display:block;text-align:center;}
-    ul {margin:0;padding:0;overflow:hidden;list-style-type:none;align:center;}
-</style>
-<ul style="">
+<ul style="margin:0 auto;list-style:none;display:flex;content-align:center;text-align:center;gap:25px;">
     <li>
-        <a href="">
-            <img src="">LinkedIn
-        </a>
-    </li>
-    <li>
-        <a href="">
-            <img src="">LinkedIn
-        </a>
-    </li>
-    <li>
-        <a href="">
-            <img src="">LinkedIn
-        </a>
-    </li>
-    <li>
-        <a href="">
-            <img src="">LinkedIn
-        </a>
-    </li>
-    <li>
-        <a href="">
-            <img src="">LinkedIn
-        </a>
-    </li>
-    <li>
-        <a href="">
+        <a style="padding:10px;align:center;"href="">
             <img src="">LinkedIn
         </a>
     </li>
