@@ -59,7 +59,7 @@
     <h2 style="color:purple;font-weight:bold;">Stats</h2>
     <div align="center" dir="auto">
         <img src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WomB0ComB0&locale=en&layout=compact&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&card_width=400">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WomB0ComB0&locale=en&layout=compact&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&card_width=300">
     </div>
     <br>
     <div align="center" dir="auto">
