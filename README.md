@@ -57,7 +57,7 @@
 <br>
 <div class="stats" align="center" dir="auto">
     <h2 style="color:purple;font-weight:bold;">Stats</h2>
-    <video autopaly loop muted><source src="ezgif.com-gif-maker (2).mp4" type="video/mp4"></video>
+    <!-- <video autopaly loop muted><source src="ezgif.com-gif-maker (2).mp4" type="video/mp4"></video> -->
     <div align="center" dir="auto">
         <a>
             <img src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400">
@@ -68,7 +68,8 @@
     </div>
     <br>
     <div align="center" dir="auto">
-        <img src="https://streak-stats.demolab.com?user=WomB0ComB0&theme=deuteranopia-friendly-theme&border_radius=25&mode=weekly&ring=8432e1&background=281847&border=9056f6&fire=cd36fc&dates=c159ff&sideNums=cd36fc&currStreakNum=c159ff&stroke=8432df&sideLabels=c034ed&currStreakLabel=c034ed" href="https://git.io/streak-stats">
+        <img align="left"src="https://streak-stats.demolab.com?user=WomB0ComB0&theme=deuteranopia-friendly-theme&border_radius=25&mode=weekly&ring=8432e1&background=281847&border=9056f6&fire=cd36fc&dates=c159ff&sideNums=cd36fc&currStreakNum=c159ff&stroke=8432df&sideLabels=c034ed&currStreakLabel=c034ed" href="https://git.io/streak-stats">
+        <img align="right"src="giphy (2).gif" alt="Animated GiF" height="190" width="250" style="border-radius:25%;">
     </div>
 </div>
 <!-- https://giphy.com/gifs/network-technologies-connectivity-ITRemFlr5tS39AzQUL -->
