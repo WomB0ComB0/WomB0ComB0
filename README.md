@@ -51,7 +51,9 @@
     <!-- <video autopaly loop muted><source src="ezgif.com-gif-maker (2).mp4" type="video/mp4"></video> -->
     <div align="center" dir="auto"> 
             <!-- bg_color, color, title_color, line, point, area_color, area, hide_border, hide_title, custom_title, theme, radius -->
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WomB0ComB0&bg_color=281847&hide_border=true&radius=25&area_color=100710&title_color=9436fc&custom_title=Monthly Contributions&point=FF00FF&line=cd36fc&border_radius=50" href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+            <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WomB0ComB0&bg_color=281847&hide_border=true&radius=25&area_color=100710&title_color=9436fc&custom_title=Monthly Contributions&point=FF00FF&line=cd36fc&border_radius=50" alt="Contribution Graph, if you're reading this :(">
+        </a>
     </div>
     <div align="center" dir="auto" style="user-select:none;">
         <a href="" rel="noopener norefferer nofollow">
