@@ -11,7 +11,7 @@
 </p>
 <ul style="margin:0 auto;list-style:none;display:flex;content-align:center;text-align:center;gap:25px;">
     <li>
-        <a style="padding:10px;align:center;"href="">
+        <a style="padding:10px;align:center;text-decoration:none;"href="">
             <img src="">LinkedIn
         </a>
     </li>
