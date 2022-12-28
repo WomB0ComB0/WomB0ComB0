@@ -57,20 +57,14 @@
 <br>
 <div class="stats" align="center" dir="auto">
     <h2 style="color:purple;font-weight:bold;">Stats</h2>
-    <div class="video-background" style="width:100%;max-width:100%;z-index:-1;"><video autopaly loop muted><source></video></div>
+    <video autopaly loop muted><source src="ezgif.com-gif-maker (2).mp4" type="video/mp4"></video>
     <div align="center" dir="auto">
-        <ul style="user-select:none;gap:5;list-style:none;display:inline;">
-            <li>
-                <a>
-                    <img src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400">
-                </a>
-            </li>
-            <li>
-                <a>
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WomB0ComB0&locale=en&layout=compact&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&card_width=300">
-                </a>
-            </li>
-        </ul>
+        <a>
+            <img src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400">
+        </a>
+        <a>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WomB0ComB0&locale=en&layout=compact&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&card_width=300">
+        </a>
     </div>
     <br>
     <div align="center" dir="auto">
