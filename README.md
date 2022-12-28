@@ -55,7 +55,7 @@
 </div>
 <br style="height:2px;color:#FF00FF;">
 <br>
-<div class="stats" align="center" dir="auto">
+<div class="stats" align="center" dir="auto" style="background:black;">
     <h2 style="color:purple;font-weight:bold;">Stats</h2>
     <div align="center" dir="auto">
         <img src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20">
