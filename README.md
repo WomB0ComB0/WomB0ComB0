@@ -23,18 +23,20 @@
         </a>
     </div>
 </div>
-<br style="height:2px;color:#FF00FF;">
-<h2 dir="auto"></h2>
-<h3 align="center" dir="auto" style="">Frontend</h3>
-<!-- html, css, sass, bootstrap, js, ts, react, three -->
-<h3 align="center" dir="auto" style="">Mobile Development</h3>
-<!-- kotlin, flutter, android -->
-<h3 align="center" dir="auto" style="">Backend</h3>
-<!-- Python, c, c++, c#, carbon(mabye), node, postreSQL, noSQL, mongoDB -->
-<h3 align="center" dir="auto" style="">DevOps</h3>
-<!-- Firebase, kuberneties, git, linux, GC -->
-<h3 align="center" dir="auto" style="">Other</h3>
-<!-- Blender, unity, FIgma -->
+<details open>
+    <h2 dir="auto"></h2>
+    <!-- Put in a list or table -->
+    <h3 align="center" dir="auto" style="">Frontend</h3>
+    <!-- html, css, sass, bootstrap, js, ts, react, three -->
+    <h3 align="center" dir="auto" style="">Mobile Development</h3>
+    <!-- kotlin, flutter, android -->
+    <h3 align="center" dir="auto" style="">Backend</h3>
+    <!-- Python, c, c++, c#, carbon(mabye), node, postreSQL, noSQL, mongoDB -->
+    <h3 align="center" dir="auto" style="">DevOps</h3>
+    <!-- Firebase, kuberneties, git, linux, GC -->
+    <h3 align="center" dir="auto" style="">Other</h3>
+    <!-- Blender, unity, FIgma -->
+</details>
 <div align="left" dir="auto">
 <!---->
 </div>
@@ -43,18 +45,24 @@
 <div class="stats" align="center" dir="auto">
     <summary><h2 style="color:purple;font-weight:bold;">🟣Stats🟣</h2></summary>
     <!-- <video autopaly loop muted><source src="ezgif.com-gif-maker (2).mp4" type="video/mp4"></video> -->
-    <div align="center" dir="auto">
+    <div align="centere" dir="auto">
+        <a href="">
+            <!-- bg_color, color, title_color, line, point, area_color, area, hide_border, hide_title, custom_title, theme, radius -->
+            <img style="width:100%;max-width:100%;"src="https://github-readme-activity-graph.cyclic.app/graph?username=WomB0ComB0&bg_color=90,281847,45297A&hide_border=true&radius=25&area_color=100710&title_color=9436fc&custom_title=Monthly Contributions" href="">
+        </a>
+    </div>
+    <div align="center" dir="auto" style="user-select:none;">
         <a>
-            <img style="padding-right:5px;" src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400">
+            <img style="padding-right:5px;" src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400&border_radius=25&border_color=9056f6">
         </a>
         <a>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WomB0ComB0&locale=en&layout=compact&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&card_width=300">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WomB0ComB0&locale=en&layout=compact&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&card_width=300&border_radius=25&border_color=9056f6">
         </a>
     </div>
     <br>
     <div align="center" dir="auto">
         <img src="https://streak-stats.demolab.com?user=WomB0ComB0&theme=deuteranopia-friendly-theme&border_radius=25&mode=weekly&ring=8432e1&background=281847&border=9056f6&fire=cd36fc&dates=c159ff&sideNums=cd36fc&currStreakNum=c159ff&stroke=8432df&sideLabels=c034ed&currStreakLabel=c034ed" href="https://git.io/streak-stats">
-        <img src="giphy (2).gif" alt="Animated GiF" height="190" width="33%" style="border-radius:25%;">
+        <img src="giphy (2).gif" alt="Animated GiF" height="190" width="33%" style="border-radius:25px;">
     </div>
 </div>
 <!-- <details open>     </details> -->
