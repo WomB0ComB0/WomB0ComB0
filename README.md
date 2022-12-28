@@ -55,10 +55,10 @@
 </div>
 <br style="height:2px;color:#FF00FF;">
 <br>
-<div class="stats" align="center" dir="auto" style="background:blue;">
+<div class="stats" align="center" dir="auto">
     <h2 style="color:purple;font-weight:bold;">Stats</h2>
     <div align="center" dir="auto">
-        <img src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20">
+        <img style="border-radius:25px;"src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WomB0ComB0&locale=en&layout=compact&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&card_width=440">
     </div>
     <div align="center" dir="auto">
