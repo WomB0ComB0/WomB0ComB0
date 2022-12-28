@@ -40,12 +40,10 @@
     <!-- Firebase, kuberneties, git, linux, GC -->
     <h3 align="center" dir="auto" style="">Other</h3>
     <!-- Blender, unity, FIgma -->
-    <hr>
 </details>
-<div align="left" dir="auto">
-<!---->
-</div>
+
 <div align="center" dir="auto">
+<hr>
     <summary style="width:100%;max-width:100%;"><span align="left" style="left:0;">🟣</span><span style="font-weight:bold;">Stats</span><span align="right" style="">🟣</span></summary>
 <hr>
     <!-- <video autopaly loop muted><source src="ezgif.com-gif-maker (2).mp4" type="video/mp4"></video> -->
