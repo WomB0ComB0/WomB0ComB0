@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-    <a target="_self" rel="noopener norefferer nofollow">
+    <a target="_blank" rel="noopener norefferer nofollow">
         <img src="https://github.com/WomB0ComB0/WomB0ComB0/blob/main/Mikes%20Purple%20bkg%20Complete%20I%20guess.png" align="center" style="width:100%; max-width:100%;">
     </a>
 </div>
@@ -11,7 +11,7 @@
 </p>
 <ul style="margin:0 auto;list-style:none;display:flex;content-align:center;text-align:center;gap:25px;">
     <li>
-        <a style="padding:10px;align:center;text-decoration:none;"href="">
+        <a style="padding:10px;align:center;text-decoration:none;"href=""rel="noopener norefferer nofollow">
             <img src="">LinkedIn
         </a>
     </li>
@@ -22,7 +22,7 @@
 <div>
     <h2 align="center" dir="auto">Connect With Me</h2>
     <div align="center"dir="auto"><!--Links + respective images-->
-        <a href="">
+        <a href="" rel="noopener norefferer nofollow">
             <img alt="" style="max-width:100%;">
         </a>
     </div>
@@ -43,7 +43,7 @@
 
 <div align="center" dir="auto">
     <hr style="margin:0;">
-        <div style="width:100%;max-width:100%;margin:0;padding:0;background-image:url('DALL·E 2022-12-26 00.30.59 - solid color background purple.png');">
+        <div style="width:100%;max-width:100%;margin:0;padding:0;">
             <span align="left" style="left:0;">🟣</span>
             <span style="font-size:16px">Stats</span>
             <span align="right" style="">🟣</span>
@@ -51,21 +51,21 @@
     <hr style="margin:0;">
     <!-- <video autopaly loop muted><source src="ezgif.com-gif-maker (2).mp4" type="video/mp4"></video> -->
     <div align="center" dir="auto">
-        <a target="_blank" style="width:100%; max-width:100%;" href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
+        <a target="_blank" style="width:100%; max-width:100%;" href="https://github.com/ashutosh00710/github-readme-activity-graph" rel="noopener norefferer nofollow"> 
             <!-- bg_color, color, title_color, line, point, area_color, area, hide_border, hide_title, custom_title, theme, radius -->
             <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WomB0ComB0&bg_color=90,281847,45297A&hide_border=true&radius=25&area_color=100710&title_color=9436fc&custom_title=Monthly Contributions" href="">
         </a>
     </div>
     <div align="center" dir="auto" style="user-select:none;">
-        <a href="">
-            <img style="padding-right:5px;" src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400&border_radius=25&border_color=9056f6">
+        <a href="" rel="noopener norefferer nofollow">
+            <img style="padding-right:5px;" src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400&border_radius=25&border_color=9056f6" alt="Score Card">
         </a>
-        <a href="">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WomB0ComB0&locale=en&layout=compact&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&card_width=300&border_radius=25&border_color=9056f6">
+        <a href="" rel="noopener norefferer nofollow">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WomB0ComB0&locale=en&layout=compact&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&card_width=300&border_radius=25&border_color=9056f6" alt="Most Used Langauges">
         </a>
     </div>
     <div align="center" dir="auto" style="margin:0;padding:0;">
-        <img src="https://streak-stats.demolab.com?user=WomB0ComB0&theme=deuteranopia-friendly-theme&border_radius=25&mode=weekly&ring=8432e1&background=281847&border=9056f6&fire=cd36fc&dates=c159ff&sideNums=cd36fc&currStreakNum=c159ff&stroke=8432df&sideLabels=c034ed&currStreakLabel=c034ed" href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=WomB0ComB0&theme=deuteranopia-friendly-theme&border_radius=25&mode=weekly&ring=8432e1&background=281847&border=9056f6&fire=cd36fc&dates=c159ff&sideNums=cd36fc&currStreakNum=c159ff&stroke=8432df&sideLabels=c034ed&currStreakLabel=c034ed" href="https://git.io/streak-stats" alt="Github Streaks">
         <img src="giphy (2).gif" alt="Animated GiF" height="190" width="30%" style="border-radius:25px;"> 
     </div>
 </div>
