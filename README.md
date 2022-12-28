@@ -19,9 +19,6 @@
 <h3 dir="auto">
     <div align="center" dir="auto"></div>
 </h3>
-
-<ul dir="auto" style="::selection{background:#5b357d;}">
-</ul>
 <div>
     <h2 align="center" dir="auto">Connect With Me</h2>
     <div align="center"dir="auto"><!--Links + respective images-->
@@ -53,7 +50,7 @@
     <summary style="width:100%;max-width:100%;"><span align="left" style="left:0;">🟣</span><span style="font-weight:bold;">Stats</span><span align="right" style="">🟣</span></summary>
     <!-- <video autopaly loop muted><source src="ezgif.com-gif-maker (2).mp4" type="video/mp4"></video> -->
     <div align="center" dir="auto">
-        <a target="_blank" style="width:100%; max-width:100%;"rel="noopener norefferer nofollow" href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
+        <a target="_blank" style="width:100%; max-width:100%;" href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
             <!-- bg_color, color, title_color, line, point, area_color, area, hide_border, hide_title, custom_title, theme, radius -->
             <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WomB0ComB0&bg_color=90,281847,45297A&hide_border=true&radius=25&area_color=100710&title_color=9436fc&custom_title=Monthly Contributions" href="">
         </a>
