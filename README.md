@@ -44,9 +44,7 @@
 <div align="center" dir="auto">
     <hr style="margin:0;padding:0;">
         <div style="width:100%;max-width:100%;margin:0;padding:0;">
-            <span align="left" style="left:0;">🟣</span>
-            <span style="font-size:16px">Stats</span>
-            <span align="right" style="">🟣</span>
+            <h4 style="font-size:16px"><span align="left" style="left:0;">🟣</span>Stats<span align="right" style="">🟣</span></h4>
         </div>
     <hr style="margin:0;padding:0;">
     <!-- <video autopaly loop muted><source src="ezgif.com-gif-maker (2).mp4" type="video/mp4"></video> -->
