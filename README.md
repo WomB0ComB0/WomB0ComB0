@@ -42,13 +42,13 @@
 </details>
 
 <div align="center" dir="auto">
-    <hr style="margin:0;">
+    <hr style="margin:0;padding:0;">
         <div style="width:100%;max-width:100%;margin:0;padding:0;">
             <span align="left" style="left:0;">🟣</span>
             <span style="font-size:16px">Stats</span>
             <span align="right" style="">🟣</span>
         </div>
-    <hr style="margin:0;">
+    <hr style="margin:0;padding:0;">
     <!-- <video autopaly loop muted><source src="ezgif.com-gif-maker (2).mp4" type="video/mp4"></video> -->
     <div align="center" dir="auto">
         <a target="_blank" style="width:100%; max-width:100%;" href="https://github.com/ashutosh00710/github-readme-activity-graph" rel="noopener norefferer nofollow"> 
