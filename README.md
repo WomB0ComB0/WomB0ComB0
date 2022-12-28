@@ -47,6 +47,7 @@
 </div>
 <div align="center" dir="auto">
     <summary style="width:100%;max-width:100%;"><span align="left" style="left:0;">🟣</span><span style="font-weight:bold;">Stats</span><span align="right" style="">🟣</span></summary>
+<hr>
     <!-- <video autopaly loop muted><source src="ezgif.com-gif-maker (2).mp4" type="video/mp4"></video> -->
     <div align="center" dir="auto">
         <a target="_blank" style="width:100%; max-width:100%;" href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
