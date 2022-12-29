@@ -27,19 +27,58 @@
         </a>
     </div>
 </div>
+<hr style="margin:0;padding:0;">
+<div align="center" dir="auto">
+<h4>Full-Stack</h4>
+</div>
+<hr style="margin:0;padding:0;">
 <details align="center" open>
-    <!-- Put in a list or table -->
-    <h3 align="center" dir="auto" style="">Frontend</h3>
-    <!-- html, css, sass, bootstrap, js, ts, react, three -->
-    <h3 align="center" dir="auto" style="">Mobile Development</h3>
-    <!-- kotlin, flutter, android -->
-    <h3 align="center" dir="auto" style="">Backend</h3>
-    <!-- Python, c, c++, c#, carbon(mabye), node, postreSQL, noSQL, mongoDB -->
-    <h3 align="center" dir="auto" style="">DevOps</h3>
-    <!-- Firebase, kuberneties, git, linux, GC -->
-    <h3 align="center" dir="auto" style="">Other</h3>
-    <!-- Blender, unity, FIgma -->
+<table>
+    <tr>
+        <div align="center">
+            <h3 align="center" dir="auto" style="">Frontend</h3>
+            <!-- html, css, sass, bootstrap, js, ts, react, three -->
+        </div> 
+        <td valign="top" width="20%">
+            <div align="center">
+                <img src="" alt="" height="25">
+            </div>
+        </td>
+        <td valign="top" width="20%">
+            <div align="center">         
+                <h3 align="center" dir="auto" style="">Backend</h3>
+                <!-- Python, c, c++, c#, carbon(mabye), node, postreSQL, noSQL, mongoDB -->
+            </div>
+        </td>
+        <td>
+            <div align="center">
+                <h3 align="center" dir="auto" style="">Mobile Development</h3>
+                <!-- kotlin, flutter, android -->
+            </div>
+        </td>
+        <td valign="top" width="20%">
+            <div align="center">
+                <h3 align="center" dir="auto" style="">DevOps</h3>
+                <!-- Firebase, kuberneties, git, linux, GC -->
+            </div>
+        </td>
+        <td valign="top" width="20%">
+            <div align="center">
+                <h3 align="center" dir="auto" style="">Other</h3>
+                <!-- Blender, unity, FIgma -->
+            </div>
+        </td>
+        <td valign="top" width="20%">
+            <div align="center">
+                 <!--  -->
+            </div>
+        </td>
+    </tr>
+    <tr>
+    </tr>
+</table>
 </details>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=airwolf635&cover_image=true&theme=natemoo-re&show_offline=true&background_color=281847&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=airwolf635&redirect=true)
 
 <div align="center" dir="auto">
     <hr style="margin:0;padding:0;">
