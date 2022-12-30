@@ -9,13 +9,32 @@
         <img src="https://komarev.com/ghpvc/?username=WomB0ComB0&style=flat-square&color=653da8">
     </a>
 </p>
-<ul style="margin:0 auto;list-style:none;display:flex;content-align:center;text-align:center;gap:25px;">
-    <li>
-        <a style="padding:10px;align:center;text-decoration:none;"href=""rel="noopener norefferer nofollow">
-            <img src="">LinkedIn
-        </a>
-    </li>
-</ul>
+<div align="center">
+    <a href="https://dev.to/https://dev.to/womb0comb0" target="_blank">
+        <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logoColor=white" alt=devto style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://gitlab.com/https://gitlab.com/WomB0ComB0" target="_blank">
+        <img src="https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logoColor=white" alt=gitlab style="margin-bottom: 5px;" />
+    </a>
+<!-- <a href="https://github.com/https://github.com/WomB0ComB0" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> -->
+<!-- <a href="https://twitter.com/https://twitter.com/OdnisMike" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> -->
+    <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19474918/mike-odnis" target="_blank">
+        <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://codepen.com/https://codepen.io/womb0comb0" target="_blank">
+<img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logoColor=white" alt=codepen style="margin-bottom: 5px;" />
+</a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/mike-odnis-23a303228/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://instagram.com/https://www.instagram.com/_xmikexx__/" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
+    </a>  
+</div>
 <h3 dir="auto">
     <div align="center" dir="auto"></div>
 </h3>
