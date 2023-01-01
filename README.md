@@ -57,14 +57,14 @@
             <div align="center">
                 <h3 align="center" dir="auto" style="">Frontend</h3>
                 <!-- html, css, sass, bootstrap, js, ts, react, three -->
-            </div> 
+            </div>
             <td valign="top" width="20%">
                 <div align="center">
                     <img src="" alt="" height="25">
                 </div>
             </td>
             <td valign="top" width="20%">
-                <div align="center">         
+                <div align="center">
                     <h3 align="center" dir="auto" style="">Backend</h3>
                     <!-- Python, c, c++, c#, carbon(mabye), node, postreSQL, noSQL, mongoDB -->
                 </div>
@@ -117,7 +117,7 @@
         </div>
     <hr style="margin:0;padding:0;">
     <!-- <video autopaly loop muted><source src="ezgif.com-gif-maker (2).mp4" type="video/mp4"></video> -->
-    <div align="center" dir="auto" style="margin-top:7.5px;margin-bottom:5px;"> 
+    <div align="center" dir="auto" style="margin-top:7.5px;margin-bottom:5px;">
             <!-- bg_color, color, title_color, line, point, area_color, area, hide_border, hide_title, custom_title, theme, radius -->
         <a target="_blank" href="https://github.com/ashutosh00710/github-readme-activity-graph">
             <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WomB0ComB0&bg_color=281847&hide_border=true&radius=25&area_color=100710&title_color=9436fc&custom_title=Monthly Contributions&point=FF00FF&line=cd36fc&border_radius=50" alt="Contribution Graph, if you're reading this :(" style="width:100%;max-width:100%;">
@@ -133,7 +133,7 @@
     <!-- </div> -->
     <div align="center" dir="auto" style="margin:0;padding:0;">
         <img src="https://streak-stats.demolab.com?user=WomB0ComB0&theme=deuteranopia-friendly-theme&border_radius=25&mode=weekly&ring=8432e1&background=281847&border=9056f6&fire=cd36fc&dates=c159ff&sideNums=cd36fc&currStreakNum=c159ff&stroke=8432df&sideLabels=c034ed&currStreakLabel=c034ed" href="https://git.io/streak-stats" alt="Github Streaks">
-        <img src="Assets\Gif\giphy (2).gif" alt="Animated GiF" height="190" width="30%" style="border-radius:25px;"> 
+        <img src="Assets\Gif\giphy (2).gif" alt="Animated GiF" height="190" width="30%" style="border-radius:25px;">
     </div>
 </div>
 
