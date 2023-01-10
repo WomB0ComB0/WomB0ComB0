@@ -1,5 +1,4 @@
 <hr><h3 align="center" dir="auto" style="">My Skills</h3><hr>
-firebase, css3, gcp, npm, c#, graphQL, mongoDB, mySQL, node, redux, bootstrap, javasript, react, sass, three, typescript, kotlin, numpy, spyder
 <details open align="center" dir="auto" style="margin:0;padding:0;display:block;">
     <summary></summary>
     <details open align="center" dir="auto">
@@ -29,3 +28,4 @@ firebase, css3, gcp, npm, c#, graphQL, mongoDB, mySQL, node, redux, bootstrap, j
         </table>
     </details>
 </details>
+firebase, css3, gcp, npm, c#, graphQL, mongoDB, mySQL, node, redux, bootstrap, javasript, react, sass, three, typescript, kotlin, numpy, spyder
