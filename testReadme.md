@@ -9,7 +9,7 @@
                     <img src="Everything\Assets\SVG\Full-Stack\Frontend\html5.svg" alt="Html5" width="" height="" margin="">
                 </td>
                 <td valign="top" width="50%">
-                    <img src="Everything\Assets\SVG\Software & Libraries\visual-studio.svg" alt="Html5" width="" height="" margin="">
+                    <img src="Everything\Assets\SVG\Full-Stack\Frontend\css3.svg" alt="Html5" width="" height="" margin="">
                 </td>
                 firebase, css3, gcp, npm, c#, graphQL, mongoDB, mySQL, node, redux, bootstrap, javasript, react, sass, three, typescript, kotlin, numpy, spyder
             </tr>
