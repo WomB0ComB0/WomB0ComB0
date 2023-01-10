@@ -237,7 +237,7 @@
     <!-- </div> -->
     <div align="center" dir="auto" style="margin:0;padding:0;">
         <img src="https://streak-stats.demolab.com?user=WomB0ComB0&theme=deuteranopia-friendly-theme&border_radius=25&mode=weekly&ring=8432e1&background=281847&border=9056f6&fire=cd36fc&dates=c159ff&sideNums=cd36fc&currStreakNum=c159ff&stroke=8432df&sideLabels=c034ed&currStreakLabel=c034ed" href="https://git.io/streak-stats" alt="Github Streaks">
-        <img src="Everything\Assets\Gif\giphy (2).gif" alt="Animated GiF" height="190" width="30%" style="border-radius:25px;">
+        <img src="https://github.com/WomB0ComB0/WomB0ComB0/blob/e13040ea4fa1c741fecd291f589c37be116b698b/Everything/Assets/Gif/giphy%20(2).gif" alt="Animated GiF" height="190" width="30%" style="border-radius:25px;">
     </div>
 </div>
 
