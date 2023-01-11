@@ -1,4 +1,7 @@
 <hr><h3 align="center" dir="auto" style="">My Skills</h3><hr>
+<style>
+details summary::-webkit-details-marker {display:none;}
+</style>
 <details open align="center" dir="auto" style="margin:0;padding:0;display:block;">
     <summary></summary>
     <details open align="center" dir="auto">
@@ -21,11 +24,11 @@
             <tr>
                 <td>
                     <div>
-                        <img alt="" width="" height="" margin="">
+                        <img src=""alt="" width="" height="" margin="">
                     </div>
                 </td>
             </tr>
         </table>
     </details>
 </details>
-firebase, css3, gcp, npm, c#, graphQL, mongoDB, mySQL, node, redux, bootstrap, javasript, react, sass, three, typescript, kotlin, numpy, spyder
+firebase ✅, css3, gcp, npm, c#, graphQL, mongoDB, mySQL, node, redux, bootstrap, javasript, react, sass, three, typescript, kotlin, numpy, spyder

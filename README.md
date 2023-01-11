@@ -220,12 +220,10 @@
         </div>
     <hr style="margin:0;padding:0;">
     <!-- <video autopaly loop muted><source src="ezgif.com-gif-maker (2).mp4" type="video/mp4"></video> -->
-    <div align="center" dir="auto" style="margin-top:7.5px;margin-bottom:5px;">
             <!-- bg_color, color, title_color, line, point, area_color, area, hide_border, hide_title, custom_title, theme, radius -->
         <a target="_blank" href="https://github.com/ashutosh00710/github-readme-activity-graph">
             <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WomB0ComB0&bg_color=281847&hide_border=true&radius=25&area_color=100710&title_color=9436fc&custom_title=Monthly Contributions&point=FF00FF&line=cd36fc&border_radius=50" alt="Contribution Graph, if you're reading this :(" style="width:100%;max-width:100%;">
         </a>
-    </div>
     <!-- <div align="center" dir="auto" style="user-select:none;"> -->
         <a href="" rel="noopener norefferer nofollow">
             <img style="padding-right:5px;" src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400&border_radius=25&border_color=9056f6" alt="Score Card">
