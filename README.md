@@ -78,12 +78,7 @@
 <details open align="center">
     <summary></summary>
         <div align="center" dir="auto">
-            <!-- bg_color, color, title_color, line, point, area_color, area, hide_border, hide_title, custom_title, theme, radius -->
-[![Mike's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WomB0ComB0&bg_color=281847&hide_border=true&radius=25&area_color=100710&title_color=9436fc&custom_title=Monthly Contributions&point=FF00FF&line=cd36fc&border_radius=50)](https://github.com/ashutosh00710/github-readme-activity-graph)
-        <hr>
-            <a rell="noopener norefferer nofollow" href="https://github.com/ashutosh00710/github-readme-activity-graph">
-                <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WomB0ComB0&bg_color=281847&hide_border=true&radius=25&area_color=100710&title_color=9436fc&custom_title=Monthly Contributions&point=FF00FF&line=cd36fc&border_radius=50" alt="Contribution Graph, if you're reading this :(" style="width:100%;max-width:100%;">
-            </a>
+        <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=WomB0ComB0&width=700&skills=html, css, SCSS, JavaScript, TypeScript, JSON, python &height=300&show-other-skills=false&bg=90,281847,45297A&text_color=cd36fc&border_radius=25&border_color=9056f6&text_color=cd36fc">
         <hr>
             <a href="" rel="noopener norefferer nofollow">
                 <img style="padding-right:5px;" src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400&border_radius=25&border_color=9056f6&include_all_commits=true" alt="Score Card">
