@@ -78,7 +78,11 @@
 <details open align="center">
     <summary></summary>
         <div align="center" dir="auto">
-        <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=WomB0ComB0&width=700&skills=html, css, SCSS, JavaScript, TypeScript, JSON, python &height=300&show-other-skills=false&bg=90,281847,45297A&text_color=cd36fc&border_radius=25&border_color=9056f6&text_color=cd36fc">
+            <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=WomB0ComB0&bg_color=281847&color=9436fc&line=cd36fc&point=ff00ff&area=true&hide_border=true"></a>
+            <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=WomB0ComB0&theme=discord&margin-w=15&no-frame=true&title=Commits,Repositories,PR,Issues&row=2&column=4&no-bg=true&">
+    </img>
+  </a>
         <hr>
             <a href="" rel="noopener norefferer nofollow">
                 <img style="padding-right:5px;" src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400&border_radius=25&border_color=9056f6&include_all_commits=true" alt="Score Card">
