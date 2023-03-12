@@ -1,7 +1,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WomB0ComB0&bg_color=281847&color=9436fc&line=cd36fc&point=ff00ff&area=true&hide_border=true&custom_title=Contribution)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=WomB0ComB0&bg_color=281847&color=9436fc&line=cd36fc&point=ff00ff&area=true&hide_border=true"></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=WomB0ComB0&bg_color=281847&color=9436fc&line=cd36fc&point=ff00ff&area=true&hide_border=true&custom_title=Contribution"></a>
 
 
 <a rell="noopener norefferer nofollow" href="https://github.com/ashutosh00710/github-readme-activity-graph">
