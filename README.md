@@ -76,7 +76,7 @@
         <img style="padding-right:5px;" src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400&border_radius=25&border_color=9056f6&include_all_commits=true" alt="Score Card">
     </a>
     <a href="/" rel="noopener norefferer nofollow" target="_self">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WomB0ComB0&locale=en&layout=compact&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&card_width=300&border_radius=25&border_color=9056f6&hide=LLVM" alt="Most Used Langauges">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WomB0ComB0&locale=en&layout=compact&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&card_width=300&border_radius=25&border_color=9056f6&hide=LLVM,java" alt="Most Used Langauges">
     </a>
     <div align="center" dir="auto" style="margin:0;padding:0;">
     <hr>
