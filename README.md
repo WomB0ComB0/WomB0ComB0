@@ -70,8 +70,6 @@
 <hr style="margin:1px;">
 <br>
 <div align="center" dir="auto">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_self" rel="noopener norefferer nofollow"><img width="93%"src="https://github-readme-activity-graph.cyclic.app/graph?username=WomB0ComB0&bg_color=281847&color=9436fc&line=cd36fc&point=ff00ff&area=true&hide_border=true&custom_title=Contribution"/></a>
-    <hr>
     <a href="/" rel="noopener norefferer nofollow" target="_self">
         <img style="padding-right:5px;" src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400&border_radius=25&border_color=9056f6&include_all_commits=true" alt="Score Card"/>
     </a>
