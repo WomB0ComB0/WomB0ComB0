@@ -1,4 +1,4 @@
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=WomB0ComB0&show-avatar=true&badges=2&branding=false&layout=auto&badge-min-width=100&min-width=300&style=--border-radius:50px;--header-bg-color:%23281847;--bg-color:%238432e1;--header-text-color:%239436fc;--prelaoder-color:%23ff00ff;">
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=WomB0ComB0&show-avatar=true&badges=2&branding=false&layout=auto&badge-min-width=100&min-width=300&style=--border-radius:50px;--header-bg-color:%2523281847;--bg-color:%25238432e1;--header-text-color:%25239436fc;--prelaoder-color:%2523ff00ff;">
 show-avatar=false
 8432e1
 281847

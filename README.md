@@ -11,7 +11,7 @@
     </p>
 </div>
 <div align="center" dir="auto">
-    <img width="50%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=WomB0ComB0&show-avatar=true&badges=2&branding=false&layout=auto&badge-min-width=100&min-width=300&style=--border-radius:50px;--header-bg-color:%23281847;--bg-color:%238432e1;--header-text-color:%239436fc;--prelaoder-color:%23ff00ff;"/>
+    <img width="50%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=WomB0ComB0&show-avatar=true&badges=2&branding=false&layout=auto&badge-min-width=100&min-width=300&style=--border-radius:50px;--header-bg-color:%2523281847;--bg-color:%25238432e1;--header-text-color:%25239436fc;--prelaoder-color:%2523ff00ff;"/>
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=airwolf635&redirect=true" target="_blank" rel="noopener norefferer nofollow">
     <img width="45%"dir="auto" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=airwolf635&cover_image=true&theme=natemoo-re&show_offline=true&background_color=281847&interchange=true&bar_color=53b14f&bar_color_cover=true"/></a>
 </div>
@@ -72,6 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="50" alt="putty logo"/>
 
 </div>
+
 <hr style="margin:1px;">
 <br>
 <div align="center" dir="auto">
