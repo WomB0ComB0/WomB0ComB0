@@ -76,6 +76,10 @@
 <hr style="margin:1px;">
 <br>
 <div align="center" dir="auto">
+    <img loading="lazy"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=WomB0ComB0&theme=dracula&bg_color=281847&color=9436fc&line=cd36fc&point=ff00ff&area=true&hide_border=true&custom_title=Contribution"
+        alt="Contribution Graph, if you're reading this" style="width:100%;max-width:100%; border-radius: 25px;">
+    <hr/>
     <a href="/" rel="noopener norefferer nofollow" target="_self">
         <img style="padding-right:5px;" src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400&border_radius=25&border_color=9056f6&include_all_commits=true" alt="Score Card"/>
     </a>
