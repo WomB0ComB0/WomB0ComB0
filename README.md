@@ -81,7 +81,7 @@
     align="center"
     dir="auto"
 >
-    <a
+<!--     <a
         href="https://aspecta.id/u/WomB0ComB0"
         target="_blank"
         rel="noopener norefferer nofollow"
@@ -90,7 +90,7 @@
             src="https://image-generator.aspecta.id/profile-share-images/generate?env=production&username=WomB0ComB0&image_name=profile&w=571&h=510&dpr=2"
             width="571"
         />
-    </a>
+    </a> -->
     <a
         href="https://leetcode.com/WomB0ComB0"
         target="_blank"
