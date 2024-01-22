@@ -98,7 +98,7 @@
     >
         <img
             src="https://leetcard.jacoblin.cool/WomB0ComB0?ext=heatmap"
-            width="571"
+            width="100%"
         />
     </a>
 </div>
