@@ -3,11 +3,11 @@
     dir="auto"
 >
     <a
-        href="Everything/Assets/Images/Mikes%20Purple%20bkg%20Complete%20I%20guess.png"
+        href="https://github.com/WomB0ComB0/Everything/Assets/Images/Mikes%20Purple%20bkg%20Complete%20I%20guess.png"
         target="_blank"
         rel="noopener norefferer nofollow">
         <img
-            src="Everything/Assets/Images/Mikes%20Purple%20bkg%20Complete%20I%20guess.png"
+            src="https://github.com/WomB0ComB0/WomB0ComB0/blob/main/Everything/Assets/Images/Mikes%20Purple%20bkg%20Complete%20I%20guess.png"
             align="center"
             style="width:100%; max-width:100%;"
         >
