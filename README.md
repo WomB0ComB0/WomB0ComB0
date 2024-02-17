@@ -1,13 +1,9 @@
-<div
-    style="margin:0;padding:0;"align="center"
-    dir="auto"
->
-        <img
-            src="Everything/Assets/Images/Mikes Purple bkg Complete I guess.png"
-            align="center"
-            style="width:100%; max-width:100%;"
-        >
-</div>
+
+<img
+    src="Everything/Assets/Images/Mikes Purple bkg Complete I guess.png"
+    align="center"
+    style="width:100%; max-width:100%;"
+/>
 <div
     style="margin: 5px;"
 >
@@ -70,8 +66,6 @@
 <hr
     style="margin:1px;"
 >
-<br
->
 <div
     align="center"
     dir="auto"
@@ -100,8 +94,6 @@
 
 <hr
     style="margin:1px;"
->
-<br
 >
 <div
     align="center"
