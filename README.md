@@ -2,16 +2,11 @@
     style="margin:0;padding:0;"align="center"
     dir="auto"
 >
-    <a
-        href="https://github.com/WomB0ComB0/Everything/Assets/Images/Mikes%20Purple%20bkg%20Complete%20I%20guess.png"
-        target="_blank"
-        rel="noopener norefferer nofollow">
         <img
-            src="https://mikeodnis.com/api/og"
+            src="Everything/Assets/Images/Mikes Purple bkg Complete I guess.png"
             align="center"
             style="width:100%; max-width:100%;"
         >
-    </a>
 </div>
 <div
     style="margin: 5px;"
