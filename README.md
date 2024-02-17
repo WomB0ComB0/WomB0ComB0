@@ -7,7 +7,7 @@
         target="_blank"
         rel="noopener norefferer nofollow">
         <img
-            src="Everything/Assets/Images/Mikes%20Purple%20bkg%20Complete%20I%20guess.png"
+            src="https://mikeodnis.com/api/og"
             align="center"
             style="width:100%; max-width:100%;"
         >
