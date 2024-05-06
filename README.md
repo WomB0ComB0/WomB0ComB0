@@ -3,6 +3,9 @@
         html, body, * {
             background-color: #131313;
         }
+        head {
+            display: none;
+        }
     </style>
 </head>
 <img
