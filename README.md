@@ -1,11 +1,5 @@
-<head>
-    <style>
-        html, body, * {
-            background-color: #131313;
-        }
-    </style>
-</head>
-<body></body>
+<body style="background-color: #131313;">
+ 
 <img
     src="Everything/Assets/Images/Mikes Purple bkg Complete I guess.png"
     align="center"
@@ -163,3 +157,4 @@
     >
     </div>
 </div>
+</body>
