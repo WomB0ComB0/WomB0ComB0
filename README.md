@@ -5,6 +5,7 @@
         }
     </style>
 </head>
+<body></body>
 <img
     src="Everything/Assets/Images/Mikes Purple bkg Complete I guess.png"
     align="center"
