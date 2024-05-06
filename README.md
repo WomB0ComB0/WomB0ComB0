@@ -1,6 +1,6 @@
 <head>
     <style>
-        html {
+        html, body {
             background-color: #131313;
         }
     </style>
