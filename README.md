@@ -3,9 +3,6 @@
         html, body, * {
             background-color: #131313;
         }
-        head,  style {
-            display: none;
-        }
     </style>
 </head>
 <img
@@ -30,6 +27,7 @@
             <img
                 src="https://komarev.com/ghpvc/?username=WomB0ComB0&style=flat-square&color=653da8"
                 alt="Profile Views"
+                style="background-color:#131313;"
             >
         </a>
     </p>
@@ -53,6 +51,7 @@
             width="45%"
             dir="auto"
             src="https://spotify-github-profile.vercel.app/api/view.svg?uid=airwolf635&cover_image=true&theme=natemoo-re&show_offline=true&background_color=281847&interchange=true&bar_color=53b14f&bar_color_cover=true"
+            style="background-color:#131313;"
         />
     </a>
 </div>
@@ -66,7 +65,7 @@
     >
         <img
             height='36'
-            style='border:0px;height:36px;'
+            style='border:0px;height:36px;background-color:#131313;'
             src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png'
             border='0'
             alt='Support Mike Odnis on buymecoffee'
@@ -98,12 +97,13 @@
         <img
             src="https://leetcard.jacoblin.cool/WomB0ComB0?ext=heatmap"
             width="100%"
+            style="background-color:#131313;"
         />
     </a>
 </div>
 
 <hr
-    style="margin:1px;"
+    style="margin:1px;background-color:#131313;"
 >
 <div
     align="center"
@@ -112,7 +112,7 @@
     <img
         src="https://github-readme-activity-graph.vercel.app/graph?username=WomB0ComB0&theme=dracula&bg_color=281847&color=9436fc&line=cd36fc&point=ff00ff&area=true&hide_border=true&custom_title=Contribution"
         alt="Contribution Graph, if you're reading this"
-        style="width:100%;max-width:100%; border-radius: 25px;"
+        style="width:100%;max-width:100%; border-radius: 25px;background-color:#131313;"
     >
     <hr
     >
@@ -122,7 +122,8 @@
         target="_self"
     >
         <img
-            style="padding-right:5px;" src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400&border_radius=25&border_color=9056f6&include_all_commits=true"
+            style="padding-right:5px;background-color:#131313;" 
+            src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400&border_radius=25&border_color=9056f6&include_all_commits=true"
             alt="Score Card"
         />
     </a>
@@ -134,6 +135,7 @@
         <img
             src="https://github-readme-stats.vercel.app/api/top-langs?username=WomB0ComB0&locale=en&layout=compact&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&card_width=300&border_radius=25&border_color=9056f6&hide=LLVM,java"
             alt="Most Used Languages"
+            style="background-color:#131313;"
         />
     </a>
     <div
@@ -147,13 +149,14 @@
             src="https://streak-stats.demolab.com?user=WomB0ComB0&theme=deuteranopia-friendly-theme&border_radius=25&mode=weekly&ring=8432e1&background=281847&border=9056f6&fire=cd36fc&dates=c159ff&sideNums=cd36fc&currStreakNum=c159ff&stroke=8432df&sideLabels=c034ed&currStreakLabel=c034ed"
             href="https://git.io/streak-stats"
             alt="Git hub Streaks"
+            style="background-color:#131313;"
         />
         <img
             src="Everything\Assets\Gif\giphy (2).gif"
             alt="Animated GiF"
             height="190"
             width="30%"
-            style="border-radius:25px;"
+            style="border-radius:25px;background-color:#131313;"
         />
     <hr
     >
