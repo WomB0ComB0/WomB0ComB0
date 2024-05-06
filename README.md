@@ -3,7 +3,7 @@
         html, body, * {
             background-color: #131313;
         }
-        head {
+        head,  style {
             display: none;
         }
     </style>
