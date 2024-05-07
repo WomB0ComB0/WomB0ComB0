@@ -2,7 +2,7 @@
   style="
     width:100%;
     height:100%;
-    background-color: linear-gradient(to top, #271745, #3e246f);
+    background: linear-gradient(to top, #271745, #3e246f);
  "
 >
  
