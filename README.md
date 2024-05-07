@@ -3,7 +3,8 @@
    background-color: #131313;
     width:100%;
     height:100%;
-     background: linear-gradient(to top, #271745, #3e246f);
+     background: conic-gradient(from 60deg at 56.25% calc(425% / 6), conic-gradient(from 60deg at 56.25% calc(425% / 6), #0000, #282828 0.5deg 119.5deg, #0000 120deg)) var(--s) calc(1.73 * var(--s)), conic-gradient(from 180deg at 43.75% calc(425% / 6), conic-gradient(from 180deg at 43.75% calc(425% / 6), #0000, #282828 0.5deg 119.5deg, #0000 120deg)) var(--s) calc(1.73 * var(--s)), conic-gradient(from -60deg at 50% calc(175% / 12), conic-gradient(from -60deg at 50% calc(175% / 12), #0000, #282828 0.5deg 119.5deg, #0000 120deg)) var(--s) 0, conic-gradient(from -60deg at 50% calc(175% / 12), conic-gradient(from -60deg at 50% calc(175% / 12), #0000, #282828 0.5deg 119.5deg, #0000 120deg)) 0 calc(1.73 * var(--s)) #1e1e1e;
+background-size: calc(2 * var(--s)) calc(3.46 * var(--s));
  "
 >
  
