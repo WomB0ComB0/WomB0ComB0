@@ -3,7 +3,7 @@
    background-color: #131313;
     width:100%;
     height:100%;
-    background: conic-gradient(from 60deg at 56.25% calc(425% / 6), conic-gradient(from 60deg at 56.25% calc(425% / 6), #0000, #282828 0.5deg 119.5deg, #0000 120deg)) var(--s) calc(1.73 * 37px), conic-gradient(from 180deg at 43.75% calc(425% / 6), conic-gradient(from 180deg at 43.75% calc(425% / 6), #0000, #282828 0.5deg 119.5deg, #0000 120deg)) 37px calc(1.73 * 37px), conic-gradient(from -60deg at 50% calc(175% / 12), conic-gradient(from -60deg at 50% calc(175% / 12), #0000, #282828 0.5deg 119.5deg, #0000 120deg)) 37px 0, conic-gradient(from -60deg at 50% calc(175% / 12), conic-gradient(from -60deg at 50% calc(175% / 12), #0000, #282828 0.5deg 119.5deg, #0000 120deg)) 0 calc(1.73 * 37px) #1e1e1e;
+    background: conic-gradient(from 60deg at 56.25% calc(425% / 6), conic-gradient(from 60deg at 56.25% calc(425% / 6), #0000, #282828 0.5deg 119.5deg, #0000 120deg)) 37px calc(1.73 * 37px), conic-gradient(from 180deg at 43.75% calc(425% / 6), conic-gradient(from 180deg at 43.75% calc(425% / 6), #0000, #282828 0.5deg 119.5deg, #0000 120deg)) 37px calc(1.73 * 37px), conic-gradient(from -60deg at 50% calc(175% / 12), conic-gradient(from -60deg at 50% calc(175% / 12), #0000, #282828 0.5deg 119.5deg, #0000 120deg)) 37px 0, conic-gradient(from -60deg at 50% calc(175% / 12), conic-gradient(from -60deg at 50% calc(175% / 12), #0000, #282828 0.5deg 119.5deg, #0000 120deg)) 0 calc(1.73 * 37px) #1e1e1e;
     background-size: calc(2 * 37px) calc(3.46 * 37px);
  "
 >
