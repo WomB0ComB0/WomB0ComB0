@@ -163,6 +163,3 @@
     </div>
 </div>
 </body>
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/WomB0ComB0/WomB0ComB0/assets/95197809/bfcc7e2b-3329-4a48-92c9-a726e31af68e');]{x0000}$}
