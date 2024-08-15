@@ -116,7 +116,7 @@
     >
     <hr
     >
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=womb0comb0&show-other-skills=true" width="auto"></img>
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=womb0comb0&bg=281847&padding=4" width="auto"></img>
     <hr
     >
     <a
