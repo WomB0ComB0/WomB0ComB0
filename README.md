@@ -43,11 +43,7 @@
         style="background-color: transparent;"
         alt="Code Stats"
     />
-    <a
-        href="https://spotify-github-profile.vercel.app/api/view?uid=mike%20odnis&redirect=true"
-        target="_blank"
-        rel="noopener norefferer nofollow"
-    >
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=airwolf635&cover_image=true&theme=novatorem&show_offline=true&background_color=802aa7&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=airwolf635&redirect=true)
         <img
             width="45%"
             dir="auto" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=airwolf635&cover_image=true&theme=natemoo-re&show_offline=true&background_color=281847&interchange=true&bar_color=53b14f&bar_color_cover=true"
