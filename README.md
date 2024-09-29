@@ -17,9 +17,7 @@
     align="center"
     style="width:100%; max-width:100%;"
 />
-<div
-    style="margin: 5px;"
->
+<div style="margin: 5px;" >
     <p
         style="margin:0;padding:0;"
         align="center"
@@ -101,15 +99,10 @@
     </a>
 </div>
 
-
-
 <div align="center" style="margin: 10px;">
     <img
         width="70%"
         src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=WomB0ComB0&bg=transparent"
     />
 </div>
-
-<br><br>
-
 </body>
