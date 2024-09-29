@@ -7,7 +7,7 @@
 >
  
 <img
-    src="Everything/Assets/Images/Mikes Purple bkg Complete I guess.png"
+    src="Everything/Assets/Images/Mikes Purple crop round.png"
     align="center"
     style="width:100%; max-width:100%;"
 />
@@ -43,18 +43,8 @@
         style="background-color: transparent;"
         alt="Code Stats"
     />
-    <a
-      href="https://spotify-github-profile.kittinanx.com/api/view?uid=airwolf635&redirect=true"
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-    >
-      <img 
-        src="https://spotify-github-profile.kittinanx.com/api/view?uid=airwolf635&cover_image=true&theme=novatorem&show_offline=true&background_color=802aa7&interchange=false&bar_color=53b14f&bar_color_cover=true" 
-        alt="Spotify GitHub Profile"
-      />
-    </a>
-  </a>
 </div>
+
 <div
     align="center"
     dir="auto"
@@ -72,23 +62,13 @@
         />
     </a>
 </div>
-<hr
-    style="margin:1px;"
->
+
+<br><br>
+
 <div
     align="center"
     dir="auto"
 >
-<!--     <a
-        href="https://aspecta.id/u/WomB0ComB0"
-        target="_blank"
-        rel="noopener norefferer nofollow"
-    >
-        <img
-            src="https://image-generator.aspecta.id/profile-share-images/generate?env=production&username=WomB0ComB0&image_name=profile&w=571&h=510&dpr=2"
-            width="571"
-        />
-    </a> -->
     <a
         href="https://leetcode.com/WomB0ComB0"
         target="_blank"
@@ -96,29 +76,18 @@
     >
         <img
             src="https://leetcard.jacoblin.cool/WomB0ComB0?ext=heatmap"
-            width="100%"
+            width="70%"
             style="background-color: transparent;"
         />
     </a>
 </div>
 
-<hr
-    style="margin:1px;background-color: transparent;"
->
+<br><br>
+
 <div
     align="center"
     dir="auto"
 >
-    <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=WomB0ComB0&theme=dracula&bg_color=281847&color=9436fc&line=cd36fc&point=ff00ff&area=true&hide_border=true&custom_title=Contribution"
-        alt="Contribution Graph, if you're reading this"
-        style="width:100%;max-width:100%; border-radius: 25px;background-color: transparent;"
-    >
-    <hr
-    >
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=womb0comb0&bg=281847&padding=4" width="auto" style="border-radius: 30px;"></img>
-    <hr
-    >
     <a
         href="/"
         rel="noopener norefferer nofollow"
@@ -145,23 +114,6 @@
         align="center"
         dir="auto"
         style="margin:0;padding:0;"
-    >
-    <hr
-    >
-        <img
-            src="https://streak-stats.demolab.com?user=WomB0ComB0&theme=deuteranopia-friendly-theme&border_radius=25&mode=weekly&ring=8432e1&background=281847&border=9056f6&fire=cd36fc&dates=c159ff&sideNums=cd36fc&currStreakNum=c159ff&stroke=8432df&sideLabels=c034ed&currStreakLabel=c034ed"
-            href="https://git.io/streak-stats"
-            alt="Git hub Streaks"
-            style="background-color: transparent;"
-        />
-        <img
-            src="Everything\Assets\Gif\giphy (2).gif"
-            alt="Animated GiF"
-            height="190"
-            width="30%"
-            style="border-radius:25px;background-color: transparent;"
-        />
-    <hr
     >
     </div>
 </div>
