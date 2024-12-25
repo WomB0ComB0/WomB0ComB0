@@ -7,7 +7,7 @@
 >
 
 <img
-    src="Everything/Assets/Images/Mikes Purple bkg Complete I guess.png"
+    src="Everything/Assets/Images/PurpleBackground.png"
     align="center"
     style="width:100%; max-width:100%;"
 />
