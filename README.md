@@ -33,7 +33,7 @@
       <img src="https://tryhackme-badges.s3.amazonaws.com/WomB0ComB0.png"
            alt="TryHackMe Badge"
            width="45%"
-           style="height: 100%; width: 100%;" />
+        />
     </a>
   </div>
   <!-- Spotify Now Playing -->
