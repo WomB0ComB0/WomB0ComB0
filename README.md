@@ -1,85 +1,66 @@
-<body 
+<body
   style="
     width:100%;
     height:100%;
     background: linear-gradient(to top, #271745, #3e246f);
  "
 >
- 
+
 <img
     src="Everything/Assets/Images/Mikes Purple bkg Complete I guess.png"
     align="center"
     style="width:100%; max-width:100%;"
 />
-<div
-    style="margin: 5px;"
->
-    <p
-        style="margin:0;padding:0;"
-        align="center"
-        dir="auto"
-    >
-        <a
-            target="_self"
-            style="width:100%; max-width:100%;"
-            rel="noopener norefferer nofollow"
-            href="/"
-        >
-            <img
-                src="https://komarev.com/ghpvc/?username=WomB0ComB0&style=flat-square&color=653da8"
-                alt="Profile Views"
-                style="background-color: transparent;"
-            >
-        </a>
-    </p>
-</div>
-<div
-    align="center"
-    dir="auto"
->
-    <img
-        width="50%"
-        src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=WomB0ComB0&show-avatar=true&badges=2&branding=false&layout=auto&badge-min-width=100&min-width=300&style=--border-radius:50px;--header-bg-color:%2523281847;--bg-color:%25238432e1;--header-text-color:%25239436fc;--prelaoder-color:%2523ff00ff;"
-        style="background-color: transparent;"
-        alt="Code Stats"
-    />
-    <a
-      href="https://spotify-github-profile.kittinanx.com/api/view?uid=airwolf635&redirect=true"
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-    >
-      <img 
-        src="https://spotify-github-profile.kittinanx.com/api/view?uid=airwolf635&cover_image=true&theme=novatorem&show_offline=true&background_color=802aa7&interchange=false&bar_color=53b14f&bar_color_cover=true" 
-        alt="Spotify GitHub Profile"
-      />
+<!-- Coding Time -->
+<div align="center">
+  <!-- Stats Row 1: Wakatime & Profile Views -->
+  <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <a href="https://wakatime.com/@018e263e-b417-439d-b5b6-77af4f9d1cb3">
+      <img src="https://wakatime.com/badge/user/018e263e-b417-439d-b5b6-77af4f9d1cb3.svg" alt="Total time coded since Mar 9 2024" />
     </a>
-  </a>
-</div>
-<div
-    align="center"
-    dir="auto"
->
-    <a
-        href='https://www.buymeacoffee.com/mikeodnis3a'
-        target='_blank'
-    >
-        <img
-            height='36'
-            style='border:0px;height:36px;background-color: transparent;'
-            src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png'
-            border='0'
-            alt='Support Mike Odnis on buymecoffee'
-        />
+    <a href="/" target="_self">
+      <img src="https://komarev.com/ghpvc/?username=WomB0ComB0&style=flat-square&color=653da8"
+           alt="Profile Views" />
     </a>
+  </div>
+
+  <!-- Stats Row 2: Code Stats & TryHackMe -->
+  <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img width="45%"
+         src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=WomB0ComB0&show-avatar=true&badges=2&branding=false&layout=auto&badge-min-width=100&min-width=300&style=--border-radius:50px;--header-bg-color:%2523281847;--bg-color:%25238432e1;--header-text-color:%25239436fc;--prelaoder-color:%2523ff00ff;"
+         alt="Code Stats" />
+    <a href='https://tryhackme.com/r/p/WomB0ComB0' target='_blank'>
+      <img src="https://tryhackme-badges.s3.amazonaws.com/WomB0ComB0.png"
+           alt="TryHackMe Badge"
+           width="45%"
+           style="height: 100%; width: 100%;" />
+    </a>
+  </div>
+  <!-- Spotify Now Playing -->
+  <div align="center">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=airwolf635&redirect=true"
+       target="_blank"
+       rel="noopener noreferrer">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=airwolf635&cover_image=true&theme=novatorem&show_offline=true&background_color=802aa7&interchange=false&bar_color=53b14f&bar_color_cover=true"
+           alt="Spotify GitHub Profile" />
+    </a>
+    <div style="margin-top: 10px;">
+      <a href='https://www.buymeacoffee.com/mikeodnis3a' target='_blank'>
+        <img height='36'
+             src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png'
+             alt='Support Mike Odnis on buymecoffee' />
+      </a>
+    </div>
+  </div>
 </div>
-<hr
+<!-- <hr
     style="margin:1px;"
->
+> -->
 <div
     align="center"
     dir="auto"
 >
-<!--     <a
+    <!-- <a
         href="https://aspecta.id/u/WomB0ComB0"
         target="_blank"
         rel="noopener norefferer nofollow"
@@ -89,7 +70,7 @@
             width="571"
         />
     </a> -->
-    <a
+    <!-- <a
         href="https://leetcode.com/WomB0ComB0"
         target="_blank"
         rel="noopener norefferer nofollow"
@@ -99,24 +80,25 @@
             width="100%"
             style="background-color: transparent;"
         />
-    </a>
+    </a> -->
+
 </div>
 
-<hr
+<!-- <hr
     style="margin:1px;background-color: transparent;"
->
+> -->
 <div
     align="center"
     dir="auto"
 >
-    <img
+    <!-- <img
         src="https://github-readme-activity-graph.vercel.app/graph?username=WomB0ComB0&theme=dracula&bg_color=281847&color=9436fc&line=cd36fc&point=ff00ff&area=true&hide_border=true&custom_title=Contribution"
         alt="Contribution Graph, if you're reading this"
         style="width:100%;max-width:100%; border-radius: 25px;background-color: transparent;"
     >
     <hr
     >
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=womb0comb0&bg=281847&padding=4" width="auto" style="border-radius: 30px;"></img>
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=womb0comb0&bg=281847&padding=4" width="auto" style="border-radius: 30px;"></img> -->
     <hr
     >
     <a
@@ -125,7 +107,7 @@
         target="_self"
     >
         <img
-            style="padding-right:5px;background-color: transparent;" 
+            style="padding-right:5px;background-color: transparent;"
             src="https://github-readme-stats.vercel.app/api?username=WomB0ComB0&show_icons=true&bg_color=90,281847,45297A&title_color=9436fc&text_color=cd36fc&line_height=20&card_width=400&border_radius=25&border_color=9056f6&include_all_commits=true"
             alt="Score Card"
         />
