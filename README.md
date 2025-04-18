@@ -67,11 +67,11 @@
     href="https://leetcode.com/WomB0ComB0"
     target="_blank"
     rel="noopener norefferer nofollow"
-    style="display: flex; justify-content: center; align-items: center; width: 45%;"
+    style="display: flex; justify-content: center; align-items: center; width: 45%; height: 100%;"
   >
     <img
       src="https://leetcard.jacoblin.cool/WomB0ComB0"
-      style="background-color: transparent; width: 45%;"
+      style="background-color: transparent; width: 45%; height: 100%;"
     />
   </a>
 </div>
