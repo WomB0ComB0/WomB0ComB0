@@ -11,6 +11,7 @@
       style="width:100%; max-width:100%;"
   />
 
+  <hr style="margin:1px;">
   <!-- Coding Time -->
   <div align="center">
     <!-- Stats Row 1: Wakatime & Profile Views -->
