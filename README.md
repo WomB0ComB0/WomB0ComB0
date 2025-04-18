@@ -14,7 +14,7 @@
   <!-- Coding Time -->
   <div align="center">
     <!-- Stats Row 1: Wakatime & Profile Views -->
-    <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;" />
     <a href="https://wakatime.com/@018e263e-b417-439d-b5b6-77af4f9d1cb3">
         <img src="https://wakatime.com/badge/user/018e263e-b417-439d-b5b6-77af4f9d1cb3.svg" alt="Total time coded since Mar 9 2024" />
     </a>
@@ -26,22 +26,7 @@
 
   <!-- Stats Row 2: Code Stats & TryHackMe -->
   <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <img
-        width="45%"
-        src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=WomB0ComB0&show-avatar=true&badges=2&branding=false&layout=auto&badge-min-width=100&min-width=300&style=--border-radius:50px;--header-bg-color:%2523281847;--bg-color:%25238432e1;--header-text-color:%25239436fc;--prelaoder-color:%2523ff00ff;"
-        alt="Code Stats"
-    />
-    <a href='https://tryhackme.com/r/p/WomB0ComB0' target='_blank'>
-      <img
-        src="https://tryhackme-badges.s3.amazonaws.com/WomB0ComB0.png"
-        alt="TryHackMe Badge"
-        width="45%"
-      />
-    </a>
-  </div>
-  <!-- Spotify Now Playing -->
-  <div align="center">
-    <a 
+    <a
       href="https://spotify-github-profile.kittinanx.com/api/view?uid=airwolf635&redirect=true"
       target="_blank"
       rel="noopener noreferrer">
@@ -50,48 +35,46 @@
         alt="Spotify GitHub Profile"
       />
     </a>
-    <div style="margin-top: 10px;">
-        <a 
-          href='https://www.buymeacoffee.com/mikeodnis3a' 
-          target='_blank'
-        >
-            <img
-                height='36'
-                src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png'
-                alt='Support Mike Odnis on buymecoffee'
-            />
-        </a>
-    </div>
+    <a href='https://tryhackme.com/r/p/WomB0ComB0' target='_blank'>
+      <img
+        src="https://tryhackme-badges.s3.amazonaws.com/WomB0ComB0.png"
+        alt="TryHackMe Badge"
+        width="45%"
+      />
+    </a>
   </div>
 </div>
 <hr
-    style="margin:1px;"
+  style="margin:1px;"
 >
 <div
-    align="center"
-    dir="auto"
+  align="center"
+  dir="auto"
+  style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
 >
-    <a
-      href="https://aspecta.id/u/WomB0ComB0"
-      target="_blank"
-      rel="noopener norefferer nofollow"
-    >
-        <img
-          src="https://image-generator.aspecta.id/profile-share-images/generate?env=production&username=WomB0ComB0&image_name=profile&w=571&h=510&dpr=2"
-          width="571"
-        />
-    </a>
-     <a
-        href="https://leetcode.com/WomB0ComB0"
-        target="_blank"
-        rel="noopener norefferer nofollow"
-    >
-        <img
-          src="https://leetcard.jacoblin.cool/WomB0ComB0?ext=heatmap"
-          width="100%"
-          style="background-color: transparent;"
-        />
-    </a>
+  <a
+    href="https://gitroll.io/profile/uyeGETm4vtsMZNIHstLOcPOwPOer1"
+    target="_blank"
+    style="display: flex; justify-content: center; align-items: center; width: 50%;"
+  >
+    <img
+      src="https://gitroll.io/api/badges/profiles/v1/uyeGETm4vtsMZNIHstLOcPOwPOer1?theme=midnight"
+      alt="GitRoll Profile Badge"
+      style="width: 50%"
+    />
+  </a>
+  <a
+    href="https://leetcode.com/WomB0ComB0"
+    target="_blank"
+    rel="noopener norefferer nofollow"
+    style="display: flex; justify-content: center; align-items: center; width: 50%;"
+  >
+    <img
+      src="https://leetcard.jacoblin.cool/WomB0ComB0"
+      width="100%"
+      style="background-color: transparent;"
+    />
+  </a>
 </div>
 
 <hr
@@ -101,18 +84,6 @@
     align="center"
     dir="auto"
 >
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=WomB0ComB0&theme=dracula&bg_color=281847&color=9436fc&line=cd36fc&point=ff00ff&area=true&hide_border=true&custom_title=Contribution"
-      alt="Contribution Graph, if you're reading this"
-      style="width:100%;max-width:100%; border-radius: 25px;background-color: transparent;"
-    >
-    <hr>
-    <img
-      src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=womb0comb0&bg=281847&padding=4"
-      width="auto"
-      style="border-radius: 30px;"
-    />
-    <hr>
     <a
       href="/"
       rel="noopener norefferer nofollow"
