@@ -70,7 +70,7 @@
     style="display: flex; justify-content: center; align-items: center; width: 45%; height: 100%;"
   >
     <img
-      src="https://leetcard.jacoblin.cool/WomB0ComB0"
+      src="https://leetcard.jacoblin.cool/WomB0ComB0?ext=heatmap"
       style="background-color: transparent; width: 45%; height: 100%;"
     />
   </a>
