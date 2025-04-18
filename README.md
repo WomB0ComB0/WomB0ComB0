@@ -71,8 +71,7 @@
   >
     <img
       src="https://leetcard.jacoblin.cool/WomB0ComB0"
-      width="100%"
-      style="background-color: transparent;"
+      style="background-color: transparent; width: 50%;"
     />
   </a>
 </div>
