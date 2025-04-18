@@ -50,7 +50,7 @@
 <div
   align="center"
   dir="ltr"
-  style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px; flex-direction: row;"
+  style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px; flex-direction: row; flex-wrap: wrap;"
 >
   <a
     href="https://gitroll.io/profile/uyeGETm4vtsMZNIHstLOcPOwPOer1"
@@ -60,7 +60,7 @@
     <img
       src="https://gitroll.io/api/badges/profiles/v1/uyeGETm4vtsMZNIHstLOcPOwPOer1?theme=midnight"
       alt="GitRoll Profile Badge"
-      style="width: 50%"
+      style="width: 50%;"
     />
   </a>
   <a
