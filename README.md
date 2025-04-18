@@ -11,7 +11,6 @@
       style="width:100%; max-width:100%;"
   />
 
-  <hr style="margin:1px;">
   <!-- Coding Time -->
   <div align="center">
     <!-- Stats Row 1: Wakatime & Profile Views -->
@@ -25,6 +24,7 @@
     </a>
   </div>
 
+  <hr style="margin:1px;">
   <!-- Stats Row 2: Code Stats & TryHackMe -->
   <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <a
