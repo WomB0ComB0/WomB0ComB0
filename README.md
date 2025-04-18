@@ -55,23 +55,23 @@
   <a
     href="https://gitroll.io/profile/uyeGETm4vtsMZNIHstLOcPOwPOer1"
     target="_blank"
-    style="display: flex; justify-content: center; align-items: center; width: 50%;"
+    style="display: flex; justify-content: center; align-items: center; width: 45%;"
   >
     <img
       src="https://gitroll.io/api/badges/profiles/v1/uyeGETm4vtsMZNIHstLOcPOwPOer1?theme=midnight"
       alt="GitRoll Profile Badge"
-      style="width: 50%;"
+      style="width: 45%;"
     />
   </a>
   <a
     href="https://leetcode.com/WomB0ComB0"
     target="_blank"
     rel="noopener norefferer nofollow"
-    style="display: flex; justify-content: center; align-items: center; width: 50%;"
+    style="display: flex; justify-content: center; align-items: center; width: 45%;"
   >
     <img
       src="https://leetcard.jacoblin.cool/WomB0ComB0"
-      style="background-color: transparent; width: 50%;"
+      style="background-color: transparent; width: 45%;"
     />
   </a>
 </div>
