@@ -49,8 +49,8 @@
 >
 <div
   align="center"
-  dir="auto"
-  style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; flex-direction: row;"
+  dir="ltr"
+  style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px; flex-direction: row;"
 >
   <a
     href="https://gitroll.io/profile/uyeGETm4vtsMZNIHstLOcPOwPOer1"
