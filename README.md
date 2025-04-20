@@ -6,7 +6,7 @@
  "
 >
   <img
-      src="Everything/Assets/Images/PurpleBackground.png"
+      src="everything/assets/images/background.png"
       align="center"
       style="width:100%; max-width:100%;"
   />
@@ -119,7 +119,7 @@
       style="background-color: transparent;"
     />
     <img
-      src="Everything\Assets\Gif\giphy (2).gif"
+      src="everything/assets/gif/purple_space.gif"
       alt="Animated GiF"
       height="190"
       width="30%"
