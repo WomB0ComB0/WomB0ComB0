@@ -21,7 +21,7 @@
     <a href="/" target="_self">
         <img src="https://komarev.com/ghpvc/?username=WomB0ComB0&style=flat-square&color=653da8"
            alt="Profile Views" />
-    </a>da
+    </a>
   </div>
     <hr style="margin:1px;">
   <!-- Stats Row 2: Code Stats & TryHackMe -->
