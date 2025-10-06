@@ -6,7 +6,7 @@
  "
 >
   <img
-      src="everything/assets/images/background.png"
+      src="assets/images/background.png"
       align="center"
       style="width:100%; max-width:100%;"
   />
