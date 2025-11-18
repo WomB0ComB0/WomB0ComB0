@@ -11,21 +11,22 @@
       style="width:100%; max-width:100%;"
   />
   <hr style="margin:1px;">
-  <!-- Stats Row 2: Code Stats & TryHackMe -->
-  <div 
+  <p 
     align="center"
     style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
   >
-    <a
-      href="https://spotify-github-profile.kittinanx.com/api/view?uid=airwolf635&redirect=true"
-      target="_blank"
-      rel="noopener noreferrer">
-      <img
-        src="https://spotify-github-profile.kittinanx.com/api/view?uid=airwolf635&cover_image=true&theme=novatorem&show_offline=true&background_color=802aa7&interchange=false&bar_color=53b14f&bar_color_cover=true"
-        alt="Spotify GitHub Profile"
-      />
-    </a>
-  </div>
+    <samp>
+      <a href="https://mikeodnis.dev/">portfolio</a> .
+      <a href="https://blog.mikeodnis.dev/">blog</a> .
+      <a href="https://news.mikeodnis.dev/">news</a> .
+      <a href="https://links.mikeodnis.dev/">links</a> .
+      <a href="https://api.mikeodnis.dev/">api</a> .
+      <a href="https://cdn.mikeodnis.dev/">cdn</a> .
+      <a href="https://status.mikeodnis.dev">status</a>
+      <a href="https://mikeodnis.dev/sponsor">sponsor</a>
+    </samp>
+  </p>
+  <hr style="margin:1px;">
   <div 
     align="center" 
     style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
@@ -40,6 +41,7 @@
       />
     </a>
   </div>
+  <hr style="margin:1px;">
   <div 
     align="center"
     style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
