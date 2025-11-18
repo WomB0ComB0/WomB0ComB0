@@ -11,22 +11,6 @@
       style="width:100%; max-width:100%;"
   />
   <hr style="margin:1px;">
-  <p 
-    align="center"
-    style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
-  >
-    <samp>
-      <a href="https://elysium.tools/">oss</a> .
-      <a href="https://blog.mikeodnis.dev/">blog</a> .
-      <a href="https://news.mikeodnis.dev/">news</a> .
-      <a href="https://links.mikeodnis.dev/">links</a> .
-      <a href="https://api.mikeodnis.dev/">api</a> .
-      <a href="https://cdn.mikeodnis.dev/">cdn</a> .
-      <a href="https://status.mikeodnis.dev">status</a>
-      <a href="https://mikeodnis.dev/sponsor">sponsor</a>
-    </samp>
-  </p>
-  <hr style="margin:1px;">
   <div 
     align="center" 
     style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
@@ -41,6 +25,21 @@
       />
     </a>
   </div>
+    <p 
+    align="center"
+    style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
+  >
+    <samp>
+      <a href="https://elysium.tools/">oss</a> .
+      <a href="https://blog.mikeodnis.dev/">blog</a> .
+      <a href="https://news.mikeodnis.dev/">news</a> .
+      <a href="https://links.mikeodnis.dev/">links</a> .
+      <a href="https://api.mikeodnis.dev/">api</a> .
+      <a href="https://cdn.mikeodnis.dev/">cdn</a> .
+      <a href="https://status.mikeodnis.dev">status</a>
+      <a href="https://mikeodnis.dev/sponsor">sponsor</a>
+    </samp>
+  </p>
   <hr style="margin:1px;">
   <div 
     align="center"
