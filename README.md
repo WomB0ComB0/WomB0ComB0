@@ -44,6 +44,6 @@
     align="center"
     style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
   >
-    <img align="center" width="100%" src="./sponsorkit/sponsors.svg" />
+    <img align="center" width="100%" src="./sponsorkit/sponsors.webp" />
   </div>
 </body>
