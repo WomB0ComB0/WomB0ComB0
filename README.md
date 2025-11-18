@@ -12,6 +12,20 @@
   /> -->
   <!-- <hr style="margin:1px;"> -->
   <div 
+    align="center"
+    style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
+  >
+    <a
+      href="https://spotify-github-profile.kittinanx.com/api/view?uid=airwolf635&redirect=true"
+      target="_blank"
+      rel="noopener noreferrer">
+      <img
+        src="https://spotify-github-profile.kittinanx.com/api/view?uid=airwolf635&cover_image=true&theme=novatorem&show_offline=true&background_color=802aa7&interchange=false&bar_color=53b14f&bar_color_cover=true"
+        alt="Spotify GitHub Profile"
+      />
+    </a>
+  </div>
+  <div 
     align="center" 
     style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
   >
