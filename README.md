@@ -10,7 +10,7 @@
       align="center"
       style="width:100%; max-width:100%;"
   />
-  <hr style="margin:1px;">
+  <!-- <hr style="margin:1px;"> -->
   <div 
     align="center" 
     style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
@@ -40,7 +40,7 @@
       <a href="https://mikeodnis.dev/sponsor">sponsor</a>
     </samp>
   </p>
-  <hr style="margin:1px;">
+  <!-- <hr style="margin:1px;"> -->
   <div 
     align="center"
     style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
