@@ -16,7 +16,7 @@
     style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
   >
     <samp>
-      <a href="https://mikeodnis.dev/">portfolio</a> .
+      <a href="https://elysium.tools/">oss</a> .
       <a href="https://blog.mikeodnis.dev/">blog</a> .
       <a href="https://news.mikeodnis.dev/">news</a> .
       <a href="https://links.mikeodnis.dev/">links</a> .
