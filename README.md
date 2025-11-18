@@ -11,7 +11,7 @@
       style="width:100%; max-width:100%;"
   /> -->
   <!-- <hr style="margin:1px;"> -->
-  <div 
+  <!-- <div 
     align="center"
     style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
   >
@@ -24,7 +24,7 @@
         alt="Spotify GitHub Profile"
       />
     </a>
-  </div>
+  </div> -->
   <div 
     align="center" 
     style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
