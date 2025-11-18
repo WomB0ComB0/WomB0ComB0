@@ -5,11 +5,11 @@
     background: linear-gradient(to top, #271745, #3e246f);
  "
 >
-  <img
+  <!-- <img
       src="assets/images/background.png"
       align="center"
       style="width:100%; max-width:100%;"
-  />
+  /> -->
   <!-- <hr style="margin:1px;"> -->
   <div 
     align="center" 
