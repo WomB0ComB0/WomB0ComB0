@@ -25,8 +25,9 @@ jobs:
       - name: Update sponsors
         run: pnpm run sponsorkit -f
         env:
-          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.W_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: WomB0ComB0
+
       - name: Commit
         uses: EndBug/add-and-commit@v9
         with:
@@ -35,4 +36,4 @@ jobs:
           message: 'chore: update sponsors.svg [ci skip]'
           add: "sponsorkit/"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.W_GITHUB_TOKEN }}
