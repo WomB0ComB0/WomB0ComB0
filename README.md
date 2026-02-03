@@ -50,7 +50,7 @@
       <a href="https://links.mikeodnis.dev/">links</a> .
       <a href="https://api.mikeodnis.dev/">api</a> .
       <a href="https://cdn.mikeodnis.dev/">cdn</a> .
-      <a href="https://status.mikeodnis.dev">status</a>
+      <a href="https://status.mikeodnis.dev">status</a> .
       <a href="https://mikeodnis.dev/sponsor">sponsor</a>
     </samp>
   </p>
