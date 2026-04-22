@@ -5,8 +5,8 @@
   "scripts": {
     "sponsorkit": "sponsorkit"
   },
-  "packageManager": "pnpm@10.10.0",
+  "packageManager": "pnpm@10.33.1",
   "devDependencies": {
-    "sponsorkit": "^16.5.0"
+    "sponsorkit": "^17.1.0"
   }
 }
