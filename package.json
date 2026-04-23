@@ -2,6 +2,11 @@
   "name": "womb0comb0",
   "private": true,
   "type": "module",
+  "pnpm": {
+    "overrides": {
+      "defu": "^6.1.5"
+    }
+  },
   "scripts": {
     "sponsorkit": "sponsorkit"
   },
