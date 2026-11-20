@@ -56,13 +56,6 @@
       <a href="https://mikeodnis.dev/sponsor">sponsor</a>
     </samp>
   </p>
-  <p align="center">
-    <samp>
-      Building business websites, rescuing web apps, and connecting tools at
-      <a href="https://atroviola.com/">Atroviola Studio</a> ·
-      <a href="https://atroviola.com/start/">request a free call</a>
-    </samp>
-  </p>
   <!-- <hr style="margin:1px;"> -->
   <div 
     align="center"
