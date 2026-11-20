@@ -45,7 +45,7 @@
   >
     <samp>
       <a href="https://mikeodnis.dev/">portfolio</a> .
-      <a href="https://atroviola.com/">atroviola</a> .
+      <a href="https://atroviola.com/">freelance</a> .
       <a href="https://elysium.tools/">oss</a> .
       <a href="https://blog.mikeodnis.dev/">blog</a> .
       <a href="https://news.mikeodnis.dev/">news</a> .
