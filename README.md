@@ -44,6 +44,8 @@
     style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"
   >
     <samp>
+      <a href="https://mikeodnis.dev/">portfolio</a> .
+      <a href="https://atroviola.com/">atroviola</a> .
       <a href="https://elysium.tools/">oss</a> .
       <a href="https://blog.mikeodnis.dev/">blog</a> .
       <a href="https://news.mikeodnis.dev/">news</a> .
@@ -52,6 +54,13 @@
       <a href="https://cdn.mikeodnis.dev/">cdn</a> .
       <a href="https://status.mikeodnis.dev">status</a> .
       <a href="https://mikeodnis.dev/sponsor">sponsor</a>
+    </samp>
+  </p>
+  <p align="center">
+    <samp>
+      Building business websites, rescuing web apps, and connecting tools at
+      <a href="https://atroviola.com/">Atroviola Studio</a> ·
+      <a href="https://atroviola.com/start/">request a free call</a>
     </samp>
   </p>
   <!-- <hr style="margin:1px;"> -->
